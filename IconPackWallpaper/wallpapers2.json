@@ -1,1 +1,325 @@
 
+{
+    "Categories": 
+        [
+            {
+                "name": "CombS10"
+            },
+            {
+                "name": "Flamingo"
+            },
+            {
+                "name": "FlatColor"
+            },
+            {
+                "name": "Line"
+            },
+            {
+                "name": "OneUI"
+            },
+            {
+                "name": "PureLine"
+            },
+            {
+                "name": "mate20"
+            },
+            {
+                "name": "Satellite"
+            },
+            {
+                "name": "Animal"
+            },
+            {
+                "name": "Ocean"
+            },
+            {
+                "name": "Beach"
+            },
+            {
+                "name": "Road"
+            },
+            {
+                "name": "Black and White"
+            },
+            {
+                "name": "House"
+            }
+        ],
+    
+	"Wallpapers":
+        [
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/CombS10/Wallpapers/default.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/CombS10/Wallpapers/default.jpg",
+				"name": "Default Wallpaper",
+                "category": "CombS10"
+			},
+            {
+				"author": "Samuel Zeller",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/CombS10/Wallpapers/1.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/CombS10/Wallpapers/1.jpg",
+				"name": "London",
+                "category": "CombS10"
+			},
+            {
+				"author": "Kevin Young",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/CombS10/Wallpapers/2.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/CombS10/Wallpapers/2.jpg",
+				"name": "City 1067",
+                "category": "CombS10,city"
+			},
+            {
+				"author": "Aleksandra Boguslawska",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/CombS10/Wallpapers/3.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/CombS10/Wallpapers/3.jpg",
+				"name": "Mountain 1045",
+                "category": "CombS10"
+			},
+            {
+				"author": "Steve Carter",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/CombS10/Wallpapers/4.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/CombS10/Wallpapers/4.jpg",
+				"name": "Crescent City, United States",
+                "category": "CombS10,forest"
+			},
+            {
+				"author": "Christian Joudrey",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Flamingo/Wallpapers/1.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Flamingo/Wallpapers/1.jpg",
+				"name": "Yosemite National Park, United States",
+                "category": "Flamingo,forest"
+			},
+            {
+				"author": "Eric Huang",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Flamingo/Wallpapers/2.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Flamingo/Wallpapers/2.jpg",
+				"name": "Taipei City, Taiwan",
+                "category": "Flamingo"
+			},
+            {
+				"author": "Sebastien Gabriel",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Flamingo/Wallpapers/3.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Flamingo/Wallpapers/3.jpg",
+				"name": "Sunset 987",
+                "category": "Flamingo,sunset"
+			},
+            {
+				"author": "Hide Obara",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Flamingo/Wallpapers/4.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Flamingo/Wallpapers/4.jpg",
+				"name": "City 985",
+                "category": "Flamingo"
+			},
+            {
+				"author": "Fritz Bielmeier",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Flamingo/Wallpapers/5.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Flamingo/Wallpapers/5.jpg",
+				"name": "Sunset 991",
+                "category": "Flamingo,sunset"
+			},
+            {
+				"author": "Sven Scheuermeier",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Flamingo/Wallpapers/6.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Flamingo/Wallpapers/6.jpg",
+				"name": "Mountain 961",
+                "category": "Flamingo"
+			},
+            {
+				"author": "Mike Petrucci",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Christmas2018/Wallpapers/1.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Christmas2018/Wallpapers/1.jpg",
+				"name": "Forest 957",
+                "category": "FlatColor"
+			},
+            {
+				"author": "Noah Baslé",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Christmas2018/Wallpapers/2.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Christmas2018/Wallpapers/2.jpg",
+				"name": "Entrepierres, Sisteron, France",
+                "category": "FlatColor"
+			},
+            {
+				"author": "Paulo Simões Mendes",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Christmas2018/Wallpapers/3.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Christmas2018/Wallpapers/3.jpg",
+				"name": "Oleiros, Portugal",
+                "category": "FlatColor"
+			},
+            {
+				"author": "Sergei Akulich",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Line/wallpapers/02.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Line/wallpapers/02.jpg",
+				"name": "Lake Ingalls, United States",
+                "category": "Line,animal"
+			},
+            {
+				"author": "Tim Swaan",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Line/wallpapers/03.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Line/wallpapers/03.jpg",
+				"name": "Whangarei Falls, Whangarei, New Zealand",
+                "category": "Line,nature"
+			},
+            {
+				"author": "Tiago Aguiar",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Line/wallpapers/04.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Line/wallpapers/04.jpg",
+				"name": "Beach 851",
+                "category": "Line,beach"
+			},
+            {
+				"author": "Josh Felise",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/OneUI/Wallpapers/1.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/OneUI/Wallpapers/1.jpg",
+				"name": "Wolf 718",
+                "category": "OneUI"
+			},
+            {
+				"author": "Jeremy Cai",
+				"url": "https://unsplash.it/4835/3223?image=609",
+				"thumbUrl": "https://unsplash.it/400/300?image=609",
+				"name": "Beach 609",
+                "category": "beach"
+			},
+            {
+				"author": "Pawel Kadysz",
+				"url": "https://unsplash.it/4835/3223?image=603",
+				"thumbUrl": "https://unsplash.it/300/400?image=603",
+				"name": "Ocean 603",
+                "category": "ocean"
+			},
+            {
+				"author": "Paula Borowska",
+				"url": "https://unsplash.it/4835/3223?image=593",
+				"thumbUrl": "https://unsplash.it/200/400?image=593",
+				"name": "Tiger 593",
+                "category": "animal"
+			},
+            {
+				"author": "Casey Fyfe",
+				"url": "https://unsplash.it/4835/3223?image=475",
+				"thumbUrl": "https://unsplash.it/200/400?image=475",
+				"name": "Mountain 475",
+                "category": "mountain"
+			},
+            {
+				"author": "Edan Cohen",
+				"url": "https://unsplash.it/4835/3223?image=590",
+				"thumbUrl": "https://unsplash.it/400?image=590",
+				"name": "People 590",
+                "category": "people"
+			},
+            {
+				"author": "Martin Staněk",
+				"url": "https://unsplash.it/4835/3223?image=377",
+				"thumbUrl": "https://unsplash.it/400/200?image=377",
+				"name": "Mountain 377",
+                "category": "mountain"
+			},
+            {
+				"author": "Samuel Rohl",
+				"url": "https://unsplash.it/4835/3223?image=412",
+				"thumbUrl": "https://unsplash.it/400/250?image=412",
+				"name": "Forest 412",
+                "category": "forest,nature"
+			},
+            {
+				"author": "Tirza van Dijk",
+				"url": "https://unsplash.it/4835/3223?image=339",
+				"thumbUrl": "https://unsplash.it/400?image=339",
+				"name": "Road 339",
+                "category": "road,black and white"
+			},
+            {
+				"author": "Anders Jildén",
+				"url": "https://unsplash.it/4835/3223?image=249",
+				"thumbUrl": "https://unsplash.it/400?image=249",
+				"name": "Brooklyn Bridge, New York, USA",
+                "category": "architecture"
+			},
+            {
+				"author": "Artur Pokusin",
+				"url": "https://unsplash.it/4835/3223?image=549",
+				"thumbUrl": "https://unsplash.it/400/300?image=549",
+				"name": "Road 549",
+                "category": "road"
+			},
+            {
+				"author": "Ales Krivec",
+				"url": "https://unsplash.it/4835/3223?image=560",
+				"thumbUrl": "https://unsplash.it/400/300?image=560",
+				"name": "Forest 560",
+                "category": "forest"
+			},
+            {
+				"author": "Paul Itkin",
+				"url": "https://unsplash.it/4835/3223?image=1030",
+				"thumbUrl": "https://unsplash.it/400/300?image=1030",
+				"name": "House 1030",
+                "category": "forest,house"
+			},
+            {
+				"author": "E+N Photographies",
+				"url": "https://unsplash.it/4835/3223?image=1003",
+				"thumbUrl": "https://unsplash.it/400/300?image=1003",
+				"name": "Besançon, Fraisans, France",
+                "category": "forest,animal,nature"
+			},
+            {
+				"author": "Nick Scheerbart",
+				"url": "https://unsplash.it/4835/3223?image=879",
+				"thumbUrl": "https://unsplash.it/400/200?image=879",
+				"name": "Forest 879",
+                "category": "forest"
+			},
+            {
+				"author": "Caleb Ralston",
+				"url": "https://unsplash.it/4835/3223?image=869",
+				"thumbUrl": "https://unsplash.it/200/400?image=869",
+				"name": "Mountain 869",
+                "category": "mountain"
+			},
+            {
+				"author": "Elliott Engelmann",
+				"url": "https://unsplash.it/4835/3223?image=992",
+				"thumbUrl": "https://unsplash.it/300/400?image=992",
+				"name": "Meru West, Tanzania",
+                "category": "sunset,mountain"
+			},
+            {
+				"author": "Roberto Nickson",
+				"url": "https://unsplash.it/4835/3223?image=1011",
+				"thumbUrl": "https://unsplash.it/300/400?image=1011",
+				"name": "Lake Louise, Canada",
+                "category": "people"
+			},
+            {
+				"author": "Erez Attias",
+				"url": "https://unsplash.it/4835/3223?image=1033",
+				"thumbUrl": "https://unsplash.it/400/200?image=1033",
+				"name": "Zurich Airport",
+                "category": "architecture"
+			},
+            {
+				"author": "Anna Anikina",
+				"url": "https://unsplash.it/4835/3223?image=981",
+				"thumbUrl": "https://unsplash.it/400/320?image=981",
+				"name": "Mountain 981",
+                "category": "Mountain"
+			},
+            {
+				"author": "Pierre Bouillot",
+				"url": "https://unsplash.it/4835/3223?image=907",
+				"thumbUrl": "https://unsplash.it/400/200?image=907",
+				"name": "Jökulsárlón",
+                "category": "beach"
+			},
+            {
+                "author":"Test",
+                "url": "https://porting-team.ru/wp-content/uploads/2017/09/flowers_peonies_bicycle_hand_117104_5472x3648.jpg",
+                "thumbUrl": "https://porting-team.ru/wp-content/uploads/2017/09/flowers_peonies_bicycle_hand_117104_5472x3648.jpg",
+                "name": "Flowers peonies bicycle",
+                "category": "Forest,people"
+            }
+		]
+}
