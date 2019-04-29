@@ -1,0 +1,2 @@
+# CoolWallpapers
+Independent wallpaper store
