@@ -1,0 +1,320 @@
+{
+    "Categories": 
+        [
+            {
+                "name": "CombS10"
+            },
+            {
+                "name": "Flamingo"
+            },
+            {
+                "name": "FlatColor"
+            },
+            {
+                "name": "Line"
+            },
+            {
+                "name": "OneUI"
+            },
+            {
+                "name": "PureLine"
+            },
+            {
+                "name": "mate20"
+            },
+            {
+                "name": "S8"
+            },
+            {
+                "name": "Animal"
+            },
+           
+            {
+                "name": "Beach"
+            },
+            
+            {
+                "name": "Black and White"
+            },
+            {
+                "name": "House"
+            }
+        ],
+    
+	"Wallpapers":
+        [
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/CombS10/Wallpapers/default.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/CombS10/Wallpapers/default.jpg",
+				"name": "Default Wallpaper",
+                "category": "CombS10"
+			},
+            {
+				"author": "Samuel Zeller",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/CombS10/Wallpapers/1.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/CombS10/Wallpapers/1.jpg",
+				"name": "London",
+                "category": "CombS10"
+			},
+            {
+				"author": "Kevin Young",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/CombS10/Wallpapers/2.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/CombS10/Wallpapers/2.jpg",
+				"name": "City 1067",
+                "category": "CombS10,city"
+			},
+            {
+				"author": "Aleksandra Boguslawska",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/CombS10/Wallpapers/3.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/CombS10/Wallpapers/3.jpg",
+				"name": "Mountain 1045",
+                "category": "CombS10"
+			},
+            {
+				"author": "Steve Carter",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/CombS10/Wallpapers/4.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/CombS10/Wallpapers/4.jpg",
+				"name": "Crescent City, United States",
+                "category": "CombS10,forest"
+			},
+            {
+				"author": "Christian Joudrey",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Flamingo/Wallpapers/1.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Flamingo/Wallpapers/1.jpg",
+				"name": "Yosemite National Park, United States",
+                "category": "Flamingo,forest"
+			},
+            {
+				"author": "Eric Huang",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Flamingo/Wallpapers/2.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Flamingo/Wallpapers/2.jpg",
+				"name": "Taipei City, Taiwan",
+                "category": "Flamingo"
+			},
+            {
+				"author": "Sebastien Gabriel",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Flamingo/Wallpapers/3.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Flamingo/Wallpapers/3.jpg",
+				"name": "Sunset 987",
+                "category": "Flamingo,sunset"
+			},
+            {
+				"author": "Hide Obara",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Flamingo/Wallpapers/4.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Flamingo/Wallpapers/4.jpg",
+				"name": "City 985",
+                "category": "Flamingo"
+			},
+            {
+				"author": "Fritz Bielmeier",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Flamingo/Wallpapers/5.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Flamingo/Wallpapers/5.jpg",
+				"name": "Sunset 991",
+                "category": "Flamingo,sunset"
+			},
+            {
+				"author": "Sven Scheuermeier",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Flamingo/Wallpapers/6.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Flamingo/Wallpapers/6.jpg",
+				"name": "Mountain 961",
+                "category": "Flamingo"
+			},
+            {
+				"author": "Mike Petrucci",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Christmas2018/Wallpapers/1.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Christmas2018/Wallpapers/1.jpg",
+				"name": "Forest 957",
+                "category": "FlatColor"
+			},
+            {
+				"author": "Noah Baslé",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Christmas2018/Wallpapers/2.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Christmas2018/Wallpapers/2.jpg",
+				"name": "Entrepierres, Sisteron, France",
+                "category": "FlatColor"
+			},
+            {
+				"author": "Paulo Simões Mendes",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Christmas2018/Wallpapers/3.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Christmas2018/Wallpapers/3.jpg",
+				"name": "Oleiros, Portugal",
+                "category": "FlatColor"
+			},
+            {
+				"author": "Sergei Akulich",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Line/wallpapers/02.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Line/wallpapers/02.jpg",
+				"name": "Lake Ingalls, United States",
+                "category": "Line,animal"
+			},
+            {
+				"author": "Tim Swaan",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Line/wallpapers/03.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Line/wallpapers/03.jpg",
+				"name": "Whangarei Falls, Whangarei, New Zealand",
+                "category": "Line,nature"
+			},
+            {
+				"author": "Tiago Aguiar",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Line/wallpapers/04.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/Line/wallpapers/04.jpg",
+				"name": "Beach 851",
+                "category": "Line,beach"
+			},
+            {
+				"author": "Josh Felise",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/OneUI/Wallpapers/1.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/OneUI/Wallpapers/1.jpg",
+				"name": "Wolf 718",
+                "category": "OneUI"
+			},
+            {
+				"author": "Jeremy Cai",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/OneUI/Wallpapers/7.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/OneUI/Wallpapers/7.jpg",
+				"name": "Beach 609",
+                "category": "OneUI"
+			},
+            {
+				"author": "Pawel Kadysz",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/OneUI/Wallpapers/9.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/OneUI/Wallpapers/9.jpg",
+				"name": "Ocean 603",
+                "category": "OneUI"
+			},
+            {
+				"author": "Paula Borowska",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/OneUI/Wallpapers/11.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/OneUI/Wallpapers/11.jpg",
+				"name": "Tiger 593",
+                "category": "OneUI"
+			},
+            {
+				"author": "Casey Fyfe",
+				"url": "https://unsplash.it/4835/3223?image=475",
+				"thumbUrl": "https://unsplash.it/200/400?image=475",
+				"name": "Mountain 475",
+                "category": "PureLine"
+			},
+            {
+				"author": "Edan Cohen",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/PureLine/wallpapers/01.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/PureLine/wallpapers/01.jpg",
+				"name": "People 590",
+                "category": "PureLine"
+			},
+            {
+				"author": "Martin Staněk",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/PureLine/wallpapers/02.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/PureLine/wallpapers/02.jpg",
+				"name": "Mountain 377",
+                "category": "PureLine"
+			},
+            {
+				"author": "Samuel Rohl",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/PureLine/wallpapers/03.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/PureLine/wallpapers/03.jpg",
+				"name": "Forest 412",
+                "category": "PureLine,nature"
+			},
+            {
+				"author": "Tirza van Dijk",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/PureLine/wallpapers/04.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/PureLine/wallpapers/04.jpg",
+				"name": "Road 339",
+                "category": "PureLine,black and white"
+			},
+            {
+				"author": "Anders Jildén",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/PureLine/wallpapers/05.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/PureLine/wallpapers/05.jpg",
+				"name": "Brooklyn Bridge, New York, USA",
+                "category": "PureLine"
+			},
+            {
+				"author": "Artur Pokusin",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/S9/wallpapers/default.png",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/S9/wallpapers/default.png",
+				"name": "Road 549",
+                "category": "S8"
+			},
+            {
+				"author": "Ales Krivec",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/S9/wallpapers/1.png",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/S9/wallpapers/1.png",
+				"name": "Forest 560",
+                "category": "S8"
+			},
+            {
+				"author": "Paul Itkin",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/S9/wallpapers/2.png",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/S9/wallpapers/2.png",
+				"name": "House 1030",
+                "category": "S8,house"
+			},
+            {
+				"author": "E+N Photographies",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/S9/wallpapers/3.png",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/S9/wallpapers/3.png",
+				"name": "Besançon, Fraisans, France",
+                "category": "S8,animal,nature"
+			},
+            {
+				"author": "Nick Scheerbart",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/S9/wallpapers/4.png",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/S9/wallpapers/4.png",
+				"name": "Forest 879",
+                "category": "S8"
+			},
+            {
+				"author": "Caleb Ralston",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/S9/wallpapers/5.png",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/S9/wallpapers/5.png",
+				"name": "Mountain 869",
+                "category": "S8"
+			},
+            {
+				"author": "Elliott Engelmann",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/S9/wallpapers/6.png",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/S9/wallpapers/6.png",
+				"name": "Meru West, Tanzania",
+                "category": "S8,mountain"
+			},
+            {
+				"author": "Roberto Nickson",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/mate20/Wallpapers/default.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/mate20/Wallpapers/default.jpg",
+				"name": "Lake Louise, Canada",
+                "category": "mate20"
+			},
+            {
+				"author": "Erez Attias",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/mate20/Wallpapers/1.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/mate20/Wallpapers/1.jpg",
+				"name": "Zurich Airport",
+                "category": "mate20"
+			},
+            {
+				"author": "Anna Anikina",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/mate20/Wallpapers/2.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/mate20/Wallpapers/2.jpg",
+				"name": "Mountain 981",
+                "category": "mate20"
+			},
+            {
+				"author": "Pierre Bouillot",
+				"url": "https://raw.githubusercontent.com/moreappteam/xdesign/master/mate20/Wallpapers/3.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/moreappteam/xdesign/master/mate20/Wallpapers/3.jpg",
+				"name": "Jökulsárlón",
+                "category": "mate20"
+			},
+            {
+                "author":"Test",
+                "url": "https://porting-team.ru/wp-content/uploads/2017/09/flowers_peonies_bicycle_hand_117104_5472x3648.jpg",
+                "thumbUrl": "https://porting-team.ru/wp-content/uploads/2017/09/flowers_peonies_bicycle_hand_117104_5472x3648.jpg",
+                "name": "Flowers peonies bicycle",
+                "category": "Forest,people"
+            }
+		]
+}
