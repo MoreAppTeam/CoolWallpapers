@@ -8,7 +8,7 @@
                 "name": "AerialView"
             },
             {
-                "name": "Aminals"
+                "name": "Animals"
             },
             {
                 "name": "Cute"
@@ -26,7 +26,7 @@
                 "name": "Minimal"
             },
             {
-                "name": "Movies"
+                "name": "Art/Design"
             },           
             {
                 "name": "Nature"
@@ -39,6 +39,9 @@
             },           
             {
                 "name": "People"
+            },
+            {
+                "name": "Flowers/Plants"
             },
             {
                 "name": "Quotes"
@@ -99,7 +102,7 @@
 				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/angry_cat001.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/angry_cat001.jpg",
 				"name": "Angry Cat",
-                "category": "Aminals"
+                "category": "Animals"
 			},
 			{
 				"author": "From the Internet",
@@ -400,13 +403,1203 @@
 				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/bubo_scandiaca001.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/bubo_scandiaca001.jpg",
 				"name": "Bubo Scandiaca",
-                "category": "Aminals"
+                "category": "Animals"
 			},
 			{
 				"author": "From the Internet",
 				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/building001.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/building001.jpg",
 				"name": "Building",
+                "category": "Dark/Black"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/burger001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/burger001.jpg",
+				"name": "Burger",
+                "category": "Food"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/butterfly_on_leaf001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/butterfly_on_leaf001.jpg",
+				"name": "Butterfly",
+                "category": "Animals"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/cafe_shop001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/cafe_shop001.jpg",
+				"name": "Cafe Shop",
+                "category": "Dark/Black,Animals"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/cake001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/cake001.jpg",
+				"name": "Cake",
+                "category": "Food"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/camping001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/camping001.jpg",
+				"name": "Camping",
+                "category": "Sports"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/canyon001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/canyon001.jpg",
+				"name": "Canyon",
+                "category": "Nature"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/cape_nelson_lighthouse001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/cape_nelson_lighthouse001.jpg",
+				"name": "Cape Nelson Lighthouse",
+                "category": "World"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/cappadocia001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/cappadocia001.jpg",
+				"name": "Cappadocia",
+                "category": "Fantasy"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/carolina001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/carolina001.jpg",
+				"name": "Carolina",
+                "category": "People"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/caspian_sea001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/caspian_sea001.jpg",
+				"name": "Caspian Sea",
+                "category": "Ocean/Beach"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/cat001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/cat001.jpg",
+				"name": "Cat",
+                "category": "Animals"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/cat002.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/cat002.jpg",
+				"name": "Cat",
+                "category": "Animals"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/cat003.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/cat003.jpg",
+				"name": "Cat",
+                "category": "Animals"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/catching_the_waves001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/catching_the_waves001.jpg",
+				"name": "Catching the Waves",
+                "category": "Sports"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/chicago_night001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/chicago_night001.jpg",
+				"name": "Chicago Night",
+                "category": "World"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/chillin001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/chillin001.jpg",
+				"name": "Chillin",
+                "category": "People"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/chimpanzee001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/chimpanzee001.jpg",
+				"name": "Chimpanzee",
+                "category": "Animals"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/chocolately_goodness001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/chocolately_goodness001.jpg",
+				"name": "Chocolately Goodness",
+                "category": "Cute"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/chute_board001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/chute_board001.jpg",
+				"name": "Chute Board",
+                "category": "Sports,Minimal"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/circle001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/circle001.jpg",
+				"name": "Circles",
+                "category": "Dark/Black,Minimal"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/city_lights001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/city_lights001.jpg",
+				"name": "City Light",
+                "category": "Dark/Black"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/clevedon001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/clevedon001.jpg",
+				"name": "Clevedon",
+                "category": "Nature"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/climb001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/climb001.jpg",
+				"name": "Climber",
+                "category": "People"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/clown_fish001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/clown_fish001.jpg",
+				"name": "Clown Fish",
+                "category": "Animals"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/cocktail001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/cocktail001.jpg",
+				"name": "Cocktail",
+                "category": "Food"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/coffee_and_cake001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/coffee_and_cake001.jpg",
+				"name": "Coffee and Cake",
+                "category": "Food"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/coffee_beans001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/coffee_beans001.jpg",
+				"name": "Coffee Beans",
+                "category": "Food"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/coffee001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/coffee001.jpg",
+				"name": "Coffee",
+                "category": "Food"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/colorful_fog001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/colorful_fog001.jpg",
+				"name": "Colorful Fog",
+                "category": "Abstract,Fantasy"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/colorful_galaxy001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/colorful_galaxy001.jpg",
+				"name": "Colorful Galaxy",
+                "category": "Space"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/colorful_galaxy002.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/colorful_galaxy002.jpg",
+				"name": "Galaxy",
+                "category": "Space"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/colorful_galaxy003.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/colorful_galaxy003.jpg",
+				"name": "Galaxy",
+                "category": "Space"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/colorful_room001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/colorful_room001.jpg",
+				"name": "Colorful Room",
+                "category": "Abstract"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/cookie001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/cookie001.jpg",
+				"name": "Cookies",
+                "category": "Cute,Food"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/cotton_andy_skies001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/cotton_andy_skies001.jpg",
+				"name": "Cotton Andy Skies",
+                "category": "Nature"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/cracks_in_the_earth001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/cracks_in_the_earth001.jpg",
+				"name": "Cracks",
+                "category": "Nature"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/cupcake001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/cupcake001.jpg",
+				"name": "Cupcakes",
+                "category": "Food"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/curve001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/curve001.jpg",
+				"name": "Curve",
+                "category": "Dark/Black,Minimal"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/cute_dog001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/cute_dog001.jpg",
+				"name": "Cute Dog",
+                "category": "Cute,Animals"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/cute_koala001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/cute_koala001.jpg",
+				"name": "Cute Koala",
+                "category": "Cute,Animals"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/dancer001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/dancer001.jpg",
+				"name": "Dancer",
+                "category": "People"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/dancer002.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/dancer002.jpg",
+				"name": "Dancer",
+                "category": "People"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/dandelion001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/dandelion001.jpg",
+				"name": "Dandelion",
+                "category": "Nature"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/dark_flower001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/dark_flower001.jpg",
+				"name": "Dark Flower",
+                "category": "Dark/Black,Flowers/Plants"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/dark_sunset001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/dark_sunset001.jpg",
+				"name": "Dark Sunset",
+                "category": "Nature,Mountain"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/deep_blue001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/deep_blue001.jpg",
+				"name": "Deep Blue",
+                "category": "AerialView,Ocean/Beach"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/deep_underground001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/deep_underground001.jpg",
+				"name": "Deep Underground",
+                "category": "Dark/Black"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/deer001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/deer001.jpg",
+				"name": "Deer",
+                "category": "Animals"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/deer002.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/deer002.jpg",
+				"name": "Deer",
+                "category": "Animals"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/desert001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/desert001.jpg",
+				"name": "Desert",
+                "category": "Nature,World"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/division001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/division001.jpg",
+				"name": "Division",
+                "category": "Ocean/Beach,AerialView"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/dog001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/dog001.jpg",
+				"name": "Dog",
+                "category": "Animals"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/dog002.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/dog002.jpg",
+				"name": "Dog",
+                "category": "Animals"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/dog003.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/dog003.jpg",
+				"name": "Dog",
+                "category": "Dark/Black,Animals"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/dont_let_go001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/dont_let_go001.jpg",
+				"name": "Don't Let Go",
+                "category": "People,Fantasy"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/dont_look_down001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/dont_look_down001.jpg",
+				"name": "Don't Look Down",
+                "category": "Sports"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/doodles001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/doodles001.jpg",
+				"name": "Doodles",
+                "category": "Art/Design"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/doodles002.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/doodles002.jpg",
+				"name": "Doodles",
+                "category": "Art/Design,Abstract"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/doodles003.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/doodles003.jpg",
+				"name": "Doodles",
+                "category": "Art/Design"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/doodles004.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/doodles004.jpg",
+				"name": "Doodles",
+                "category": "Art/Design,Cute"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/doodles005.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/doodles005.jpg",
+				"name": "Doodles",
+                "category": "Art/Design,Abstract"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/doodles006.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/doodles006.jpg",
+				"name": "Doodles",
+                "category": "Art/Design"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/dorms001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/dorms001.jpg",
+				"name": "Dorms",
+                "category": "Dark/Black,Minimal"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/downhill001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/downhill001.jpg",
+				"name": "Downhill",
+                "category": "Sports"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/downtown001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/downtown001.jpg",
+				"name": "Downtown",
+                "category": "AerialView"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/drips001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/drips001.jpg",
+				"name": "Drips",
+                "category": "Fantasy"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/dunes001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/dunes001.jpg",
+				"name": "Dunes",
+                "category": "Nature"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/dureza_natural001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/dureza_natural001.jpg",
+				"name": "Dureza Natural",
+                "category": "Nature"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/dwarf_tree_frog001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/dwarf_tree_frog001.jpg",
+				"name": "Dwarf Tree Frog",
+                "category": "Animals,Nature"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/earth001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/earth001.jpg",
+				"name": "Earth",
+                "category": "Space,Dark/Black"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/earth002.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/earth002.jpg",
+				"name": "Earth",
+                "category": "Dark/Black"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/eggs001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/eggs001.jpg",
+				"name": "Eggs",
+                "category": "Food"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/eiffel_tower.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/eiffel_tower.jpg",
+				"name": "Eiffel Tower",
+                "category": "World,Dark/Black"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/elephant001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/elephant001.jpg",
+				"name": "Elephant",
+                "category": "Animals,Dark/Black"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/elephant002.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/elephant002.jpg",
+				"name": "Elephant",
+                "category": "Animals"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/emerald_tree_boa001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/emerald_tree_boa001.jpg",
+				"name": "Emerald Tree Boa",
+                "category": "Animals"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/enjoy001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/enjoy001.jpg",
+				"name": "Enjoy",
+                "category": "Food,Quotes"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/eye_of_BrookeMaroon001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/eye_of_BrookeMaroon001.jpg",
+				"name": "Eye",
+                "category": "People"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/falling_down001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/falling_down001.jpg",
+				"name": "Falling Down",
+                "category": "Abstract,Art/Design,Dark/Black"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/fine_art001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/fine_art001.jpg",
+				"name": "Fine Art",
+                "category": "Art/Design"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/flamingo001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/flamingo001.jpg",
+				"name": "Flamingo",
+                "category": "Animals"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/flamingo002.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/flamingo002.jpg",
+				"name": "Flamingo",
+                "category": "Animals"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/flamingo003.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/flamingo003.jpg",
+				"name": "Flamingo",
+                "category": "Animals"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/flower001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/flower001.jpg",
+				"name": "Flower",
+                "category": "Fantasy,Flowers/Plants"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/flower002.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/flower002.jpg",
+				"name": "Flower",
+                "category": "Dark/Black,Flowers/Plants"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/flower003.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/flower003.jpg",
+				"name": "Flower",
+                "category": "Dark/Black,Flowers/Plants"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/flowers_icecreame_tones001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/flowers_icecreame_tones001.jpg",
+				"name": "Icecream Flower",
+                "category": "Flowers/Plants,Cute"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/football_field001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/football_field001.jpg",
+				"name": "Foodball Field",
+                "category": "Sports,AerialView"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/forde_abbey001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/forde_abbey001.jpg",
+				"name": "Forde Abbey",
+                "category": "Flowers/Plants"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/forest_strip001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/forest_strip001.jpg",
+				"name": "Forest Strip",
+                "category": "Nature,AerialView"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/forest001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/forest001.jpg",
+				"name": "Forest",
+                "category": "Nature"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/fox001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/fox001.jpg",
+				"name": "Fox",
+                "category": "Animals"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/frosty_heather_and_leaves001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/frosty_heather_and_leaves001.jpg",
+				"name": "Frosty Leaves",
+                "category": "Nature,Flowers/Plants"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/fruits001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/fruits001.jpg",
+				"name": "Fruits",
+                "category": "Food"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/galaxy_smoothie_bowl001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/galaxy_smoothie_bowl001.jpg",
+				"name": "Galaxy Smoothie Bowl",
+                "category": "Food"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/game_time001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/game_time001.jpg",
+				"name": "Game Time",
+                "category": "Sports,AerialView"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/giraffe_drainpipe_graffiti001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/giraffe_drainpipe_graffiti001.jpg",
+				"name": "Drainpipe Graffiti",
+                "category": "Art/Design,Cute"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/girl001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/girl001.jpg",
+				"name": "Girl",
+                "category": "People,Dark/Black"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/go_forth001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/go_forth001.jpg",
+				"name": "Go Forth",
+                "category": "Fantasy"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/goat001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/goat001.jpg",
+				"name": "Goat",
+                "category": "Animals"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/golden_glow001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/golden_glow001.jpg",
+				"name": "Golden Glow",
+                "category": "People"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/golden_leaf001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/golden_leaf001.jpg",
+				"name": "Golden Leaf",
+                "category": "Art/Design"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/golf_club001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/golf_club001.jpg",
+				"name": "Golf Club",
+                "category": "Sports"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/graffiti_painting001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/graffiti_painting001.jpg",
+				"name": "Graffiti Painting",
+                "category": "Abstract,Art/Design"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/grampian_milky_mountain.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/grampian_milky_mountain.jpg",
+				"name": "Grampian Milky Mountain",
+                "category": "Mountain,Space"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/gray_horse001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/gray_horse001.jpg",
+				"name": "Gray Horse",
+                "category": "Animals"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/green_smoothie001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/green_smoothie001.jpg",
+				"name": "Green Smoothie",
+                "category": "Food"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/grefsenkollen001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/grefsenkollen001.jpg",
+				"name": "Grefsenkollen",
+                "category": "AerialView,Nature"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/grip001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/grip001.jpg",
+				"name": "Grip",
+                "category": "Minimal"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/gulls_feeding001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/gulls_feeding001.jpg",
+				"name": "Gulls Feeding",
+                "category": "Fantasy"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/gym_life001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/gym_life001.jpg",
+				"name": "Gym Life",
+                "category": "People,Sports"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/healthy_food001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/healthy_food001.jpg",
+				"name": "Healthy",
+                "category": "Food"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/heating_balloon001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/heating_balloon001.jpg",
+				"name": "Heating Balloon",
+                "category": "Fantasy"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/heating_balloon002.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/heating_balloon002.jpg",
+				"name": "Heating Balloon",
+                "category": "Fantasy"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/herne_bay001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/herne_bay001.jpg",
+				"name": "Herne Bay",
+                "category": "AerialView,Minimal"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/highway001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/highway001.jpg",
+				"name": "Highway",
+                "category": "Dark/Black"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/hilltop_kiss001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/hilltop_kiss001.jpg",
+				"name": "Hilltop Kiss",
+                "category": "Fantasy"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/hoops001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/hoops001.jpg",
+				"name": "Hoops",
+                "category": "Sports"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/hope001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/hope001.jpg",
+				"name": "Hope",
+                "category": "Fantasy"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/houses001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/houses001.jpg",
+				"name": "Houses",
+                "category": "AerialView"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/hunger001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/hunger001.jpg",
+				"name": "Hunger",
+                "category": "Animals,Dark/Black"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/i_need_cake001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/i_need_cake001.jpg",
+				"name": "I Need Cake",
+                "category": "Quotes,Food"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/ice_hockey001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/ice_hockey001.jpg",
+				"name": "Ice Hockey",
+                "category": "Sports,People"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/icecream001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/icecream001.jpg",
+				"name": "Icecream",
+                "category": "Cute"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/iceland001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/iceland001.jpg",
+				"name": "Iceland",
+                "category": "World,Minimal"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/iceland002.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/iceland002.jpg",
+				"name": "Iceland",
+                "category": "World"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/iceland003.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/iceland003.jpg",
+				"name": "Iceland",
+                "category": "Dark/Black"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/iceland004.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/iceland004.jpg",
+				"name": "Iceland",
+                "category": "World,Nature"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/imaginary_forest001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/imaginary_forest001.jpg",
+				"name": "Imaginary Forest",
+                "category": "Nature"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/incoming_tidal_waves001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/incoming_tidal_waves001.jpg",
+				"name": "Incoming Tidal Waves",
+                "category": "Ocean/Beach"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/infinite_ferns001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/infinite_ferns001.jpg",
+				"name": "Infinite Ferns",
+                "category": "Flowers/Plants"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/instant001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/instant001.jpg",
+				"name": "Instant",
+                "category": "Animals"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/into_the_mountains001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/into_the_mountains001.jpg",
+				"name": "Into the Mountain",
+                "category": "AerialView,Mountain"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/into_the_night001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/into_the_night001.jpg",
+				"name": "Into the Night",
+                "category": "Nature,Fantasy"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/inverse_pyramid_color001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/inverse_pyramid_color001.jpg",
+				"name": "Inverse Pyramid Color",
+                "category": "Abstract"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/ipoh001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/ipoh001.jpg",
+				"name": "Ipoh",
+                "category": "AerialView"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/island_cabin001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/island_cabin001.jpg",
+				"name": "Island Cabin",
+                "category": "Ocean/Beach,AerialView"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/japan001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/japan001.jpg",
+				"name": "Japan",
+                "category": "World"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/jellyfish001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/jellyfish001.jpg",
+				"name": "Jellyfish",
+                "category": "Ocean/Beach,Animals"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/jumping_for_joy001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/jumping_for_joy001.jpg",
+				"name": "Jumping for Joy",
+                "category": "People"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/kalapana_lava_flow001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/kalapana_lava_flow001.jpg",
+				"name": "Kalapana Lava Flow",
+                "category": "Nature,World"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/kate_rogge001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/kate_rogge001.jpg",
+				"name": "Kate Rogge",
+                "category": "People"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/kelingking_beach001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/kelingking_beach001.jpg",
+				"name": "Kelingking Beach",
+                "category": "Ocean/Beach"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/la_petregal001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/la_petregal001.jpg",
+				"name": "La Petregal",
+                "category": "AerialView,Ocean/Beach"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/lake_garden001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/lake_garden001.jpg",
+				"name": "Lake Garden",
+                "category": "Nature,AerialView"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/lake_powell001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/lake_powell001.jpg",
+				"name": "Lake Powell",
+                "category": "Nature,Mountain"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/langkawi_island001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/langkawi_island001.jpg",
+				"name": "Lankawi Island",
+                "category": "AerialView,Ocean/Beach"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/leaf001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/leaf001.jpg",
+				"name": "Leaves",
+                "category": "Flowers/Plants"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/leaf002.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/leaf002.jpg",
+				"name": "Leaves",
+                "category": "Flowers/Plants"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/leaf003.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/leaf003.jpg",
+				"name": "Leaves",
+                "category": "Flowers/Plants"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/lemon001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/lemon001.jpg",
+				"name": "Lemon",
+                "category": "People"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/lemon002.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/lemon002.jpg",
+				"name": "Lemon",
+                "category": "Food"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/light001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/light001.jpg",
+				"name": "Light",
+                "category": "Fantasy"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/lightning001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/lightning001.jpg",
+				"name": "Lightning",
+                "category": "Dark/Black"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/lion001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/lion001.jpg",
+				"name": "Lion",
+                "category": "Animals"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/little_girl001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/little_girl001.jpg",
+				"name": "Little Girl",
+                "category": "People,Cute"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/lone_surfer001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/lone_surfer001.jpg",
+				"name": "Lone Surfer",
+                "category": "Ocean/Beach"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/looking_down001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/looking_down001.jpg",
+				"name": "Looking Down",
+                "category": "AerialView,Nature"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/looking_up001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/looking_up001.jpg",
+				"name": "Looking Up",
+                "category": "Nature"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/lost_in_yellow001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/lost_in_yellow001.jpg",
+				"name": "Lost in Yellow",
+                "category": "Art/Design,Minimal"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/lost001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/lost001.jpg",
+				"name": "Lost",
+                "category": "Ocean/Beach"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/louvain_la_neuve001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/louvain_la_neuve001.jpg",
+				"name": "Louvain La Neuve",
+                "category": "Minimal"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/love_and_mojitos001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/love_and_mojitos001.jpg",
+				"name": "Love and Mojitos",
+                "category": "Fantasy"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/love_show001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/love_show001.jpg",
+				"name": "Love Show",
+                "category": "Fantasy"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/Luana001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/Luana001.jpg",
+				"name": "Luana",
+                "category": "People"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/macaw_parrot001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/macaw_parrot001.jpg",
+				"name": "Macaw Parrot",
+                "category": "Animals"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/majesty001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/majesty001.jpg",
+				"name": "Majesty",
+                "category": "Animals"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/maldives001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/maldives001.jpg",
+				"name": "Maldives",
+                "category": "Ocean/Beach"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/manhattan001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/manhattan001.jpg",
+				"name": "Manhattan",
+                "category": "World"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/mercedes_benz001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/mercedes_benz001.jpg",
+				"name": "Mercedes Benz",
                 "category": "Dark/Black"
 			}
 		]
