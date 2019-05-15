@@ -5,7 +5,7 @@
                 "name": "Abstract"
             },
             {
-                "name": "Aerial View"
+                "name": "AerialView"
             },
             {
                 "name": "Aminals"
@@ -204,7 +204,7 @@
 				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/barcoo_island001.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/barcoo_island001.jpg",
 				"name": "Barcoo Island",
-                "category": "Aerial View"
+                "category": "AerialView"
 			},
 			{
 				"author": "From the Internet",
@@ -218,35 +218,35 @@
 				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/beach001.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/beach001.jpg",
 				"name": "Beach 1",
-                "category": "Ocean/Beach,Aerial View"
+                "category": "Ocean/Beach,AerialView"
 			},
 			{
 				"author": "From the Internet",
 				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/beach002.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/beach002.jpg",
 				"name": "Beach 2",
-                "category": "Ocean/Beach,Aerial View"
+                "category": "Ocean/Beach,AerialView"
 			},
 			{
 				"author": "From the Internet",
 				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/beach003.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/beach003.jpg",
 				"name": "Beach 3",
-                "category": "Ocean/Beach,Aerial View"
+                "category": "Ocean/Beach,AerialView"
 			},
 			{
 				"author": "From the Internet",
 				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/beach004.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/beach004.jpg",
 				"name": "Beach 4",
-                "category": "Ocean/Beach,Aerial View"
+                "category": "Ocean/Beach,AerialView"
 			},
 			{
 				"author": "From the Internet",
 				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/beach005.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/beach005.jpg",
 				"name": "Beach 5",
-                "category": "Ocean/Beach,Aerial View"
+                "category": "Ocean/Beach,AerialView"
 			}
 		]
 }
