@@ -2,162 +2,82 @@
     "Categories": 
         [
             {
-                "name": "People"
-            },
-            {
-                "name": "Architecture"
-            },
-            {
-                "name": "City"
-            },
-            {
-                "name": "Mountain"
-            },
-            {
-                "name": "Forest"
-            },
-            {
-                "name": "Sunset"
-            },
-            {
-                "name": "Nature"
-            },
-            {
-                "name": "Satellite"
+                "name": "Abstract"
             },
             {
                 "name": "Animal"
             },
             {
-                "name": "Ocean"
+                "name": "Comic"
             },
             {
-                "name": "Beach"
+                "name": "Nature"
             },
             {
-                "name": "Road"
+                "name": "People"
             },
             {
-                "name": "Black and White"
-            },
-            {
-                "name": "House"
+                "name": "Other"
             }
         ],
     
 	"Wallpapers":
         [
 			{
-				"author": "Sweet Ice Cream Photography",
-				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/test_big_buck_bunny.mp4",
-				"thumbUrl": "https://unsplash.it/400/200?image=1083",
-				"name": "Ceningan island, Indonesia",
-                "category": "people"
+				"author": "author",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/sea_mew001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/sea_mew001.jpg",
+				"name": "Sea Mew",
+                "category": "Nature,Animal"
 			},
-            {
-				"author": "Samuel Zeller",
-				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/test_a_b.mp4",
-				"thumbUrl": "https://unsplash.it/400/200?image=1076",
-				"name": "London",
-                "category": "architecture"
+			{
+				"author": "author",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/3D_illusory001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/3D_illusory001.jpg",
+				"name": "3D Illusory",
+                "category": "Abstract"
 			},
-            {
-				"author": "Kevin Young",
-				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/test_bbbbccc.mp4",
-				"thumbUrl": "https://unsplash.it/400?image=1067",
-				"name": "City 1067",
-                "category": "architecture,city"
+			{
+				"author": "author",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/sea_world001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/sea_world001.jpg",
+				"name": "Sea World",
+                "category": "Nature"
 			},
-            {
-				"author": "Aleksandra Boguslawska",
-				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/test_big_buck_bunny.mp4",
-				"thumbUrl": "https://unsplash.it/400/200?image=1045",
-				"name": "Mountain 1045",
-                "category": "mountain"
+			{
+				"author": "author",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/love_heart001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/love_heart001.jpg",
+				"name": "Love Heart",
+                "category": "Other"
 			},
-            {
-				"author": "Steve Carter",
-				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/test_big_buck_bunny.mp4",
-				"thumbUrl": "https://unsplash.it/400/300?image=1044",
-				"name": "Crescent City, United States",
-                "category": "mountain,forest"
+			{
+				"author": "author",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/billows001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/billows001.jpg",
+				"name": "Billows",
+                "category": "Nature"
 			},
-            {
-				"author": "Christian Joudrey",
-				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/test_big_buck_bunny.mp4",
-				"thumbUrl": "https://unsplash.it/400?image=1043",
-				"name": "Yosemite National Park, United States",
-                "category": "mountain,forest"
+			{
+				"author": "author",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/hatsune_miku001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/hatsune_miku001.jpg",
+				"name": "Hatsune Miku",
+                "category": "Comic,People"
 			},
-            {
-				"author": "Eric Huang",
-				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/test_big_buck_bunny.mp4",
-				"thumbUrl": "https://unsplash.it/400/300?image=993",
-				"name": "Taipei City, Taiwan",
-                "category": "forest"
+			{
+				"author": "author",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/hatsune_miku002.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/hatsune_miku002.jpg",
+				"name": "Hatsune Miku",
+                "category": "Comic,People"
 			},
-            {
-				"author": "Sebastien Gabriel",
-				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/test_big_buck_bunny.mp4",
-				"thumbUrl": "https://unsplash.it/400?image=987",
-				"name": "Sunset 987",
-                "category": "mountain,sunset"
-			},
-            {
-				"author": "Tiago Aguiar",
-				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/test_big_buck_bunny.mp4",
-				"thumbUrl": "https://unsplash.it/400/300?image=851",
-				"name": "Beach 851",
-                "category": "ocean,beach"
-			},
-            {
-				"author": "Josh Felise",
-				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/test_big_buck_bunny.mp4",
-				"thumbUrl": "https://unsplash.it/400/300?image=718",
-				"name": "Wolf 718",
-                "category": "animal"
-			},
-            {
-				"author": "Jeremy Cai",
-				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/test_big_buck_bunny.mp4",
-				"thumbUrl": "https://unsplash.it/400/300?image=609",
-				"name": "Beach 609",
-                "category": "beach"
-			},
-            {
-				"author": "Pawel Kadysz",
-				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/test_big_buck_bunny.mp4",
-				"thumbUrl": "https://unsplash.it/300/400?image=603",
-				"name": "Ocean 603",
-                "category": "ocean"
-			},
-            {
-				"author": "Paula Borowska",
-				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/test_big_buck_bunny.mp4",
-				"thumbUrl": "https://unsplash.it/200/400?image=593",
-				"name": "Tiger 593",
-                "category": "animal"
-			},
-            {
-				"author": "Casey Fyfe",
-				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/test_big_buck_bunny.mp4",
-				"thumbUrl": "https://unsplash.it/200/400?image=475",
-				"name": "Mountain 475",
-                "category": "mountain"
-			},
-            {
-				"author": "Edan Cohen",
-				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/test_big_buck_bunny.mp4",
-				"thumbUrl": "https://unsplash.it/400?image=590",
-				"name": "People 590",
-                "category": "people"
-			},
-            {
-				"author": "Martin Staněk",
-				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/test_big_buck_bunny.mp4",
-				"thumbUrl": "https://unsplash.it/400/200?image=377",
-				"name": "Mountain 377",
-                "category": "mountain"
+			{
+				"author": "author",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/dawn001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/dawn001.jpg",
+				"name": "Dawn",
+                "category": "Nature"
 			}
 		]
 }
