@@ -14,7 +14,7 @@
                 "name": "Nature"
             },
             {
-                "name": "People"
+                "name": "Space"
             },
             {
                 "name": "Other"
@@ -63,20 +63,209 @@
 				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/hatsune_miku001.mp4",
 				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/hatsune_miku001.jpg",
 				"name": "Hatsune Miku",
-                "category": "Comic,People"
+                "category": "Comic"
 			},
 			{
 				"author": "author",
 				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/hatsune_miku002.mp4",
 				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/hatsune_miku002.jpg",
 				"name": "Hatsune Miku",
-                "category": "Comic,People"
+                "category": "Comic"
 			},
 			{
 				"author": "author",
 				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/dawn001.mp4",
 				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/dawn001.jpg",
 				"name": "Dawn",
+                "category": "Nature"
+			},
+			{
+				"author": "author",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/electric_music001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/electric_music001.jpg",
+				"name": "Electric Music",
+                "category": "Abstract"
+			},
+			{
+				"author": "author",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/reed001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/reed001.jpg",
+				"name": "Reed",
+                "category": "Nature"
+			},
+			{
+				"author": "author",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/city_night001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/city_night001.jpg",
+				"name": "City Night",
+                "category": "Nature"
+			},
+			{
+				"author": "author",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/beach001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/beach001.jpg",
+				"name": "Beach",
+                "category": "Nature"
+			},
+			{
+				"author": "author",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/pale_moon_rises001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/pale_moon_rises001.jpg",
+				"name": "Pale Moon Rises",
+                "category": "Nature"
+			},
+			{
+				"author": "author",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/one_piece001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/one_piece001.jpg",
+				"name": "One Piece",
+                "category": "Comic,Space"
+			},
+			{
+				"author": "author",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/dog001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/dog001.jpg",
+				"name": "Dog",
+                "category": "Animal"
+			},
+			{
+				"author": "author",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/blackhole001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/blackhole001.jpg",
+				"name": "Black Hole",
+                "category": "Space"
+			},
+			{
+				"author": "author",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/rainy001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/rainy001.jpg",
+				"name": "Rainy",
+                "category": "Nature"
+			},
+			{
+				"author": "author",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/flower001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/flower001.jpg",
+				"name": "Flower",
+                "category": "Nature"
+			},
+			{
+				"author": "author",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/flower002.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/flower002.jpg",
+				"name": "Flower",
+                "category": "Nature"
+			},
+			{
+				"author": "author",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/fantasy_sky001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/fantasy_sky001.jpg",
+				"name": "Fantasy Sky",
+                "category": "Space"
+			},
+			{
+				"author": "author",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/fantasy_sunset001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/fantasy_sunset001.jpg",
+				"name": "Fantasy Sunset",
+                "category": "Nature"
+			},
+			{
+				"author": "author",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/rob001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/rob001.jpg",
+				"name": "Rob",
+                "category": "Comic"
+			},
+			{
+				"author": "author",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/horse_race_lamp001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/horse_race_lamp001.jpg",
+				"name": "Horse Race Lamp",
+                "category": "Abstract"
+			},
+			{
+				"author": "author",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/blast001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/blast001.jpg",
+				"name": "Blast",
+                "category": "Space"
+			},
+			{
+				"author": "author",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/colorful_ocea001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/colorful_ocea001.jpg",
+				"name": "Colorful Ocean",
+                "category": "Nature"
+			},
+			{
+				"author": "author",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/little_pi001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/little_pi001.jpg",
+				"name": "Little P",
+                "category": "Comic,Animal"
+			},
+			{
+				"author": "author",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/cat001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/cat001.jpg",
+				"name": "Cat",
+                "category": "Animal"
+			},
+			{
+				"author": "author",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/meteor_shower001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/meteor_shower001.jpg",
+				"name": "Meteor Shower",
+                "category": "Nature"
+			},
+			{
+				"author": "author",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/particle001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/particle001.jpg",
+				"name": "Particle",
+                "category": "Abstract"
+			},
+			{
+				"author": "author",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/magic_array001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/magic_array001.jpg",
+				"name": "Magic Array",
+                "category": "Abstract"
+			},
+			{
+				"author": "author",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/ripples001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/ripples001.jpg",
+				"name": "Ripples",
+                "category": "Nature"
+			},
+			{
+				"author": "author",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/mechanical001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/mechanical001.jpg",
+				"name": "Mechanical",
+                "category": "Abstract,Space"
+			},
+			{
+				"author": "author",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/spirit001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/spirit001.jpg",
+				"name": "Spirit",
+                "category": "Other"
+			},
+			{
+				"author": "author",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/beautiful001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/beautiful001.jpg",
+				"name": "Beautiful",
+                "category": "Nature"
+			},
+			{
+				"author": "author",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/purple_flower001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/purple_flower001.jpg",
+				"name": "Purple Flower",
                 "category": "Nature"
 			}
 		]
