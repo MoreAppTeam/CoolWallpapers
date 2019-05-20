@@ -53,9 +53,6 @@
                 "name": "Sports"
             },
             {
-                "name": "SuperHeroes"
-            },
-            {
                 "name": "World"
             }
         ],
@@ -2164,20 +2161,6 @@
 			},
 			{
 				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/batman001.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/batman001.jpg",
-				"name": "Batman",
-                "category": "Dark/Black,SuperHeroes"
-			},
-			{
-				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/marvel_logo001.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/marvel_logo001.jpg",
-				"name": "Marvel Logo",
-                "category": "SuperHeroes"
-			},
-			{
-				"author": "From the Internet",
 				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/scrawl001.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/scrawl001.jpg",
 				"name": "Scraw",
@@ -2535,13 +2518,6 @@
 			},
 			{
 				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/tonystark001.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/tonystark001.jpg",
-				"name": "TonyStark",
-                "category": "People,SuperHeroes"
-			},
-			{
-				"author": "From the Internet",
 				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/toronto_financial_district001.jpg",
 				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/toronto_financial_district001.jpg",
 				"name": "Toronto Financial District",
@@ -2707,111 +2683,6 @@
 				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/yosemite_park005.jpg",
 				"name": "Yosemite Park",
                 "category": "Nature,World"
-			},
-			{
-				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/batman002.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/batman002.jpg",
-				"name": "Batman",
-                "category": "SuperHeroes,Dark/Black"
-			},
-			{
-				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/black_superhero001.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/black_superhero001.jpg",
-				"name": "Dark SuperHeroes",
-                "category": "SuperHeroes,Dark/Black"
-			},
-			{
-				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/captain_marvel001.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/captain_marvel001.jpg",
-				"name": "Captain Marvel",
-                "category": "SuperHeroes"
-			},
-			{
-				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/cool_marvel001.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/cool_marvel001.jpg",
-				"name": "Cool Marvel",
-                "category": "SuperHeroes"
-			},
-			{
-				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/ironman001.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/ironman001.jpg",
-				"name": "IronMan",
-                "category": "SuperHeroes"
-			},
-			{
-				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/ironman002.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/ironman002.jpg",
-				"name": "IronMan",
-                "category": "SuperHeroes"
-			},
-			{
-				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/ironman003.png",
-				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/ironman003.png",
-				"name": "IronMan",
-                "category": "SuperHeroes"
-			},
-			{
-				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/marvel001.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/marvel001.jpg",
-				"name": "Marvel",
-                "category": "SuperHeroes"
-			},
-			{
-				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/spiderman001.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/spiderman001.jpg",
-				"name": "Spider Man",
-                "category": "SuperHeroes"
-			},
-			{
-				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/spiderman002.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/spiderman002.jpg",
-				"name": "Spider Man",
-                "category": "SuperHeroes"
-			},
-			{
-				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/superheroes001.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/superheroes001.jpg",
-				"name": "SuperHeroes",
-                "category": "SuperHeroes"
-			},
-			{
-				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/superheroes002.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/superheroes002.jpg",
-				"name": "SuperHeroes",
-                "category": "SuperHeroes,Dark/Black"
-			},
-			{
-				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/superheroes003.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/superheroes003.jpg",
-				"name": "SuperHeroes",
-                "category": "SuperHeroes"
-			},
-			{
-				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/superman001.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/superman001.jpg",
-				"name": "Super Man",
-                "category": "SuperHeroes"
-			},
-			{
-				"author": "From the Internet",
-				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/venom001.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/venom001.jpg",
-				"name": "Venom",
-                "category": "SuperHeroes,Dark/Black"
 			},
 			{
 				"author": "From the Internet",
