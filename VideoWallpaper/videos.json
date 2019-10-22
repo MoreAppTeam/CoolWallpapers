@@ -547,6 +547,76 @@
 				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/walking.jpg",
 				"name": "Walking",
                 "category": "Comic"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/pcb_board001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/pcb_board001.jpg",
+				"name": "PCB Board",
+                "category": "Abstract"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/sea_cloud001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/sea_cloud001.jpg",
+				"name": "Sea Clouds",
+                "category": "Nature"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/goddess001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/goddess001.jpg",
+				"name": "Goddess",
+                "category": "Other"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/petard001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/petard001.jpg",
+				"name": "Petard",
+                "category": "Abstract"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/anime_girl002.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/anime_girl002.jpg",
+				"name": "Anime Girl",
+                "category": "Comic"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/death001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/death001.jpg",
+				"name": "Death",
+                "category": "Comic"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/constellation001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/constellation001.jpg",
+				"name": "Constellation",
+                "category": "Space"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/star_burst001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/star_burst001.jpg",
+				"name": "Star Burst",
+                "category": "Space"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/dandelion001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/dandelion001.jpg",
+				"name": "Dandelion",
+                "category": "Nature"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/solon001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/solon001.jpg",
+				"name": "Solon",
+                "category": "Comic"
 			}
 		]
 }
