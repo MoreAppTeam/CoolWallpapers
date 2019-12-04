@@ -20,6 +20,9 @@
                 "name": "SexyGirl"
             },
             {
+                "name": "Festival"
+            },
+            {
                 "name": "Other"
             }
         ],
@@ -732,6 +735,139 @@
 				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/happy_halloween002.jpg",
 				"name": "Happy Halloween",
                 "category": "Other"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/diamond001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/diamond001.jpg",
+				"name": "Diamond",
+                "category": "Abstract"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/anime_girl003.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/anime_girl003.jpg",
+				"name": "Anime Girl",
+                "category": "SexyGirl"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/sports_car001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/sports_car001.jpg",
+				"name": "Sports Car",
+                "category": "Abstract,Other"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/santa_girl001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/santa_girl001.jpg",
+				"name": "Santa Girl",
+                "category": "Festival,SexyGirl"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/blue_earth001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/blue_earth001.jpg",
+				"name": "Blue Earth",
+                "category": "Space"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/ripples002.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/ripples002.jpg",
+				"name": "Ripples",
+                "category": "Abstract"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/ronaldo001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/ronaldo001.jpg",
+				"name": "C Ronaldo",
+                "category": "Other"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/dancing_pig001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/dancing_pig.jpg",
+				"name": "Dancing Pig",
+                "category": "Comic"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/chrismas001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/chrismas001.jpg",
+				"name": "Chrismas",
+                "category": "Festival"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/chrismas_tree001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/chrismas_tree001.jpg",
+				"name": "Chrismas Tree",
+                "category": "Festival"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/santa_girl002.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/santa_girl002.jpg",
+				"name": "Santa Girl",
+                "category": "Festival,SexyGirl"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/santa_cat001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/santa_cat001.jpg",
+				"name": "Santa Cat",
+                "category": "Festival,Animal"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/snowman001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/snowman001.jpg",
+				"name": "Snowman",
+                "category": "Festival"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/particle003.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/particle003.jpg",
+				"name": "Particle",
+                "category": "Abstract"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/night002.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/night002.jpg",
+				"name": "Night",
+                "category": "Space,Nature"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/santa_skeleton001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/santa_skeleton001.jpg",
+				"name": "Santa Skeleton",
+                "category": "Festival"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/merry_chrismas001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/merry_chrismas001.jpg",
+				"name": "Merry Chrismas",
+                "category": "Festival,SexyGirl"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/sexy_girl0010.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/sexy_girl0010.jpg",
+				"name": "Sexy Girl",
+                "category": "SexyGirl"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/reindeer001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/reindeer001.jpg",
+				"name": "Reindeer",
+                "category": "Abstract,Festival,Animal"
 			}
 		]
 }
