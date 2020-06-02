@@ -1211,6 +1211,76 @@
 				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/lol003.jpg",
 				"name": "LOL",
                 "category": "Other"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/fireworks001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/fireworks001.jpg",
+				"name": "Fireworks",
+                "category": "Other"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/star_ring001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/star_ring001.jpg",
+				"name": "Star Ring",
+                "category": "Space"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/korean_sister001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/korean_sister001.jpg",
+				"name": "Koren Sister",
+                "category": "SexyGirl"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/sunset_by_sea001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/sunset_by_sea001.jpg",
+				"name": "Sunset by Sea",
+                "category": "Nature"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/cool_girl001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/cool_girl001.jpg",
+				"name": "Cool Girl",
+                "category": "SexyGirl"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/swan001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/swan001.jpg",
+				"name": "Swan",
+                "category": "Animal"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/lovers001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/lovers001.jpg",
+				"name": "Lovers",
+                "category": "Other"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/angry_bird001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/angry_bird001.jpg",
+				"name": "Angry Bird",
+                "category": "Comic,Animal"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/ideal_house001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/ideal_house001.jpg",
+				"name": "Ideal House",
+                "category": "Nature"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/galaxy001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/galaxy001.jpg",
+				"name": "Galaxy",
+                "category": "Space"
 			}
 		]
 }
