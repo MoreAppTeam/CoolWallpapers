@@ -1281,6 +1281,90 @@
 				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/galaxy001.jpg",
 				"name": "Galaxy",
                 "category": "Space"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/streetscape001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/streetscape001.jpg",
+				"name": "Streetscape",
+                "category": "Other"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/king_of_forest001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/king_of_forest001.jpg",
+				"name": "King of Forest",
+                "category": "Animal"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/swordsman001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/swordsman001.jpg",
+				"name": "Swordsman",
+                "category": "Other"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/fluorescence001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/fluorescence001.jpg",
+				"name": "Fluorescence",
+                "category": "Abstract"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/lovely_cat001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/lovely_cat001.jpg",
+				"name": "Lovely Cat",
+                "category": "Animal"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/johnson001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/johnson001.jpg",
+				"name": "Johnson",
+                "category": "Other"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/sexy_girl011.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/sexy_girl011.jpg",
+				"name": "Sexy Girl",
+                "category": "SexyGirl"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/nebula001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/nebula001.jpg",
+				"name": "Nebula",
+                "category": "Space"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/butterfly001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/butterfly001.jpg",
+				"name": "Butterfly",
+                "category": "Animal"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/keyboard_man001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/keyboard_man001.jpg",
+				"name": "Keyboard Man",
+                "category": "Other"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/dark001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/dark001.jpg",
+				"name": "Dark",
+                "category": "Comic"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/videos/gilding001.mp4",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/previews/gilding001.jpg",
+				"name": "Gilding",
+                "category": "Abstract"
 			}
 		]
 }
