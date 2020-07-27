@@ -2823,6 +2823,48 @@
 				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/sunset008.jpg",
 				"name": "Sunset",
                 "category": "Nature"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/octopus001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/octopus001.jpg",
+				"name": "Octopus",
+                "category": "Animals"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/bat_fire001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/bat_fire001.jpg",
+				"name": "Bat Fire",
+                "category": "Art/Design"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/starry_sky003.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/starry_sky003.jpg",
+				"name": "Starry Sky",
+                "category": "Space"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/fleshy001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/fleshy001.jpg",
+				"name": "Fleshy",
+                "category": "Plants"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/beach007.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/beach007.jpg",
+				"name": "Beach",
+                "category": "Ocean/Beach"
+			},
+			{
+				"author": "From the Internet",
+				"url": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/earphone001.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/MoreAppTeam/CoolWallpapers/master/VideoWallpaper/wallpapers/earphone001.jpg",
+				"name": "Earphone",
+                "category": "Art/Design"
 			}
 		]
 }
